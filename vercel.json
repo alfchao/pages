@@ -1,0 +1,13 @@
+{
+    "cleanUrls": true,
+    "redirects": [
+        {
+            "source": "/",
+            "destination": "/tools"
+        },
+        {
+            "source": "/mobax",
+            "destination": "/file/tool/MobaXtermKeygen"
+        }
+    ]
+}
