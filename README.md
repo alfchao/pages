@@ -1,3 +1,3 @@
 # Pages
 ## MobaX Keygen
-https://alfred-nice.github.io/pages/file/tool/MobaXtermKeygen.html
+https://alfchao.github.io/pages/file/tool/MobaXtermKeygen.html
